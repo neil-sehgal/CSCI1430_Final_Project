@@ -11,4 +11,4 @@ Four Facial Identification Methods and some extra stuff
 
 
 ## Team Members
-Neil, Dante, Sindu, Laura
+Neil, Dante, Sindura, Laura
