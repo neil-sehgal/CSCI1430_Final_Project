@@ -1,5 +1,5 @@
 """
-Project 6 - Model 3 
+Project 6 - VGG Model
 CS1430 - Computer Vision
 Brown University
 """
