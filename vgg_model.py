@@ -7,7 +7,7 @@ Brown University
 # Code from CS1430 Project 4 was utilized in creating the VGG Model
 
 import tensorflow as tf
-import hyperparameters as hp
+import vgg_hyperparameters as hp
 from PIL import Image
 from tensorflow.keras.layers import Conv2D, MaxPool2D, Flatten, Dense, Dropout
 
