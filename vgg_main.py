@@ -13,7 +13,7 @@ import cv2
 from matplotlib import pyplot as plt
 from sklearn import datasets, model_selection
 # import our VGG-16 Model
-from model3 import VGGModel
+from vgg_model import VGGModel
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
